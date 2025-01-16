@@ -1,5 +1,7 @@
 # Hello! You can call me Sleepy
 
+## I mostly ported this [from my website](https://sleepie.dev/) and it looks better on there so uh yea u should go check that out :3
+
 I'm a questionably sane femboy/dev :3
 
 I mainly make Python Discord bots and lame websites. I've also been known to reinvent the wheel on multiple occasions. My username on most platforms is **`eepyfemboi`**, though I've also been known as **`ajd5867`**.
