@@ -52,6 +52,7 @@ I mainly make Python Discord bots and lame websites. I've also been known to rei
 - [Custom Discord RPC](https://github.com/eepyfemboi/CustomRPC)
 - [Discord Server Status Bot](https://github.com/eepyfemboi/discord-server-status-bot)
 - [CSS Resolver](https://github.com/eepyfemboi/css-resolver)
+- [HTML Metadata Generator](https://github.com/eepyfemboi/html-metadata-generator)
 
 ---
 
